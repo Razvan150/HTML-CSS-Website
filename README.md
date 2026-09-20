@@ -5,13 +5,15 @@ Description
 This project is a simple website developed to practice the fundamentals of front-end web development. It includes a navigation menu, page sections and custom styling using CSS.
 
 Features
-Navigation menu
-Structured web page layout
-Custom CSS styling
-Images and visual elements
-Interactive navigation elements
+Navigation menu,
+Structured web page layout,
+Custom CSS styling,
+Images and visual elements,
+Interactive navigation elements.
+
+
 Technologies
-HTML
+HTML,
 CSS
 
 How to Run
